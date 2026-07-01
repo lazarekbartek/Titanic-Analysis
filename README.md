@@ -58,4 +58,3 @@ This project explores the Titanic dataset with a focus on how social relationshi
 ## Author
 
 Bartłomiej Lazarek
-<img width="406" height="186" alt="image" src="https://github.com/user-attachments/assets/fa23c7d4-0a9f-4e1b-9acf-ca57edb61714" />
